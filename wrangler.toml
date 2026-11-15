@@ -1,0 +1,7 @@
+name = "alpha-cipher-trading-bot"
+main = "main.js"
+compatibility_date = "2026-03-01"
+
+[vars]
+BOT_TOKEN = "9049513142:AAH9t9kmxXUZ38hHrFo2upJ0RvqfzjTaDHY"
+ADMIN_ID = "8443938939"
